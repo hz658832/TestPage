@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Norlin
+title: RoboGNSS
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 
@@ -29,8 +29,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Robert Wilson
-  description: Thoughts, stories and ideas.
+  title: First Workshop on Robot Meets GNSS
+  description: Exploring Synergies and Challenges of Global Navigation Satellite Systems in Robotics 
   image: '/images/01.jpg'
 
 
